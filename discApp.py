@@ -239,4 +239,6 @@ ggoblin_shield = [1,5]
 
 
 client = MyClient()
-client.run('NzgzMTM3NjAyNTc5NTk1MzA0.X8WXug.eGy4dggf3eM5Wik7XU_ZBfnsd14')
+
+#Removed my Discord Bot's token... woops hahahahah
+client.run('')
